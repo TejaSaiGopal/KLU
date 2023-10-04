@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <title>KLU</title>
+      <link rel="stylesheet" href="css/style.css">
+   </head>
+   <body>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+    <img src="c:\Users\teja\Downloads\1620620866phpl0Dq6q.jpeg" height="85" width="250" align="left">
+    <div class="menu"> 
+    
+    <ul>
+
+        <li><a href="#">About KL</a></li>
+        <li><a href="#">Academic</a></li>
+        <li><a href="#">Admession</a></li>
+        <li><a href="#">Colleges</a></li>
+        <li><a href="#">Skills dev.</a></li>
+        <li><a href="#">Placements</a></li>
+        <li><a href="#">R&D</a></li>
+        <li><a href="#">Global Connect</a></li>
+        <li><a href="#">Facilities (P&D)</a></li>
+        <li><a href="#">IQAC</a></li>
+    </ul>
+a</body>
+</html>
+<marquee width="60%" direction="left" height="100px">
+    KL Deemed to be University was established in 1980-81, as KL College of Engineering, which was upgraded to KL College of Engineering Autonomous in 2006 by UGC, and was declared as a Deemed to be University in 2009 by UGC
+    </marquee>
+
+
+  </a>
+</style>
+</head>
+<body>
+
+<h1>KLUNIVERSITY</h1>
+
+<a href="#" class="notification">
+  <span>Notification</span>
+</a>
+
+</body>
+</html>
+
+
+  
