@@ -157,13 +157,13 @@ ul li a{
    .about-content h2{
     font-size: 23px;
     margin-bottom: 15px;
-    color:#333;
+    color:#cefa0c;
 
    }
    .about-content p{
     font-size: 18px;
     line-height: 1.5;
-    color:#666;
+    color:#f3d600;
 
    }
    .about-content .read-more{
@@ -212,4 +212,77 @@ ul li a{
   .about-content .read-more{
     font-size: 16px;
   }
+  #popup-fea43a114e58a6b7797a505042db5008{
+    z-index:9999;
+    }
+    .npfTitle-fea43a114e58a6b7797a505042db5008 {
+        color: #9a0000;
+        text-align: center;
+        font-size: 26px;
+    }
+    .trigger_popup {
+    right:-52px;
+    }
+    let npfWfea43a114e58a6b7797a505042db5008 = new NpfWidgetsInit{
+    'widgetId': 'fea43a114e58a6b7797a505042db5008',
+    'baseurl': 'widgets.nopaperforms.com',
+    'formTitle': 'Lets Connect',
+    'titleColor': '#9a0000',
+    'backgroundColor': '#e7e7e8',
+    'iframeHeight': '532px',
+    'buttonbgColor': '#ff0000',
+    'buttonTextColor': '#FFF',
+            };
+    .wa-float{
+    position:fixed;
+    bottom:80px;
+    right:0px;
+    text-align:center;
+        z-index:100;
+    }
+    .indicator{
+    color:black;
+    }
+    @media (max-width:768px) {
+    
+    .trigger_popup {
+        transform: rotate(0)!important;
+        bottom: 0!important;
+        top: unset!important;
+        right: 0px;
+        height: 48px;
+        left: 0;
+        font-size: 16px;
+        padding: 0px 10px!important;
+        width: 50%;
+        border-radius: 0px;
+        border: 0px;
+        }
+       
+    .wa-float{
+    bottom:0px!important;
+    right:0px!important;
+        z-index:100;
+    background-color:#ffc107;
+    width:50%;
+    }
+    .wa-float img{
+    width:50px;
+    margin: auto;;
+    }
+    .mtable, .table-responsive>.table>tbody>tr>td, .table-responsive>.table>tbody>tr>th {
+    white-space:normal!important;
+    }
+    .copyright{
+    margin-bottom:48px;
+    }
+    header {
+    overflow-x: hidden;
+    }
+    
+    
+    }
+    
+    
+
 }
